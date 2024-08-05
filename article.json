@@ -1,0 +1,48 @@
+[
+  {
+    "title": "First Article Title",
+    "url": "https:\/\/www.example.com\/article1",
+    "author": {
+      "name": "Author One",
+      "bio": "Writes about interesting stuff.",
+      "email": "author1@example.com"
+    },
+    "date_published": "2023-12-20",
+    "content": "This is the content of the first article.",
+    "summary": "A short summary of article one.",
+    "categories": [ "Tech", "News" ],
+    "tags": [ "JavaScript", "Node.js" ],
+    "keywords": [ "coding", "programming" ],
+    "related_articles": [
+      {
+        "title": "Related Article A",
+        "link": "https://example.com/related-a"
+      }
+    ]
+  },
+  {
+    "title": "Another Article",
+    "url": "https:\/\/www.example.com\/article2",
+    "author": {
+      "name": "Author Two",
+      "bio": "Loves to write.",
+      "email": "author2@example.com"
+    },
+    "date_published": "2023-12-22",
+    "content": "Content of the second article here.",
+    "summary": "Short summary of the second one.",
+    "categories": [ "Travel", "Food" ],
+    "tags": [ "Photography", "Blogging" ],
+    "keywords": [ "adventure", "cuisine" ],
+    "related_articles": [
+      {
+        "title": "Related B",
+        "link": "https://example.com/related-b"
+      },
+      {
+        "title": "Related C",
+        "link": "https://example.com/related-c"
+      }
+    ]
+  }
+]

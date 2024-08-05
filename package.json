@@ -1,0 +1,12 @@
+{
+  "name": "json2md_convert",
+  "version": "1.0.0",
+  "description": "Converts JSON articles to Markdown",
+  "main": "src/convert.js",
+  "scripts": {
+    "convert": "node src/convert.js"
+  },
+  "dependencies": {
+    "json2md": "^2.0.1" 
+  }
+}
