@@ -1,0 +1,61 @@
+# Giá trị của tấm bằng Tiến sĩ Bách khoa Hà Nội
+
+Audio (#article-collapse-item-1-ct)
+
+<audio controls="" src="">
+                        Your browser does not support the <code>audio</code> element.
+                    </audio>
+
+HTML1684 (#article-collapse-item-2-ct)
+
+**Tấm bằng Tiến sĩ của Bách khoa Hà Nội đòi hỏi một sự hy sinh nhất định ở các nghiên cứu sinh nhưng thành quả đổi lại là sự trưởng thành về kiến thức và bản lĩnh nghiên cứu khoa học độc lập.**
+Đại học Bách khoa Hà Nội hôm qua tổ chức lễ trao bằng tiến sĩ cho 68 nghiên cứu sinh đã bảo vệ thành công luận án trong năm 2020. Các nghiên cứu sinh tiến sĩ tốt nghiệp đợt này đã công bố tổng số 435 công trình khoa học, trong đó có 56 bài báo được đăng trên các tạp chí khoa học thuộc danh mục ISI, nghĩa là các tạp chí được liệt kê trong các danh bạ của Viện Thông tin Khoa học Mỹ. Gần 40% tân tiến sĩ đạt chuẩn đầu ra với ít nhất một bài ISI. 
+Đến nay, Bách khoa Hà Nội, đã đào tạo được hơn 1.100 tiến sĩ, cung cấp nguồn nhân lực nghiên cứu khoa học cho nhiều ngành nghề và lĩnh vực quan trọng của đất nước. “Bách khoa Hà Nội luôn tự hào là lá cờ đầu trong đào tạo gắn liền với nghiên cứu khoa học ở bậc sau đại học, đặc biệt là bậc tiến sĩ. Trường luôn coi trọng chất lượng đào tạo để thực sự xứng tầm của một trường đại học nghiên cứu hàng đầu quốc gia và vươn ra khu vực,” Hiệu trưởng PGS. Huỳnh Quyết Thắng phát biểu tại buổi lễ trao bằng.
+Tiến sĩ Nguyễn Văn Hoàng, một cán bộ của Học viện Kỹ thuật Quân sự, là nghiên cứu sinh xuất sắc nhất năm nay. Trong vòng ba năm, nam tiến sĩ sinh năm 1983 này đã công bố 5 công trình ở các hội nghị và tạp chí uy tín, bao gồm hai bài báo đăng trên tạp chí khoa học thuộc nhóm ISI-Q1, tức là các tạp chí chiếm vị trí cao nhất về hệ số tác động IF. “Đây là thành tích mà có lẽ nhiều nghiên cứu sinh ở các trường đại học lớn trên thế giới cũng mơ ước,” Hiệu trưởng Huỳnh Quyết Thắng nhận xét.
+Trước khi bắt đầu làm nghiên cứu tiến sĩ ngành khoa học vật liệu tại Bách khoa Hà Nội, Nguyễn Văn Hoàng, đã được một trường đại học lớn ở Hàn Quốc cấp học bổng. Nhưng sau khi cân nhắc đến sự ổn định của gia đình và hướng phát triển sự nghiệp, anh quyết định nghiên cứu tiến sĩ ở trong nước. “Khi đó, ngay lập tức tôi chọn Bách khoa Hà Nội mà không chút do dự,” anh chia sẻ.
+Nguyễn Văn Hoàng là cựu sinh viên K46 Bách khoa Hà Nội, khoa Luyện kim, tiền thân của Viện Khoa học và Kỹ thuật Vật liệu. “Sau trải nghiệm 5 năm học đại học, tôi hoàn toàn tin tưởng vào chất lượng đào tạo của Trường. Theo tôi, Bách khoa Hà Nội là trường hàng đầu trong nước về khoa học, kỹ thuật ở cả bậc đại học và sau đại học,” anh khẳng định.
+
+Tiến sĩ Nguyễn Thị Thu Thủy và thầy hướng dẫn PGS. Nghiêm Trung Dũng bên lề buổi lễ trao bằng ngày 14/10 tại Trường Đại học Bách khoa Hà Nội. Ảnh: CCPR-Kim Chi. <o:p></o:p>
+Cũng chọn nghiên cứu tiến sĩ trong nước, Nguyễn Thị Thu Thủy, 34 tuổi, hiện làm việc tại Viện Kỹ thuật Môi trường và Tài Nguyên thuộc Đại học Quốc gia thành phố Hồ Chí Minh, cho biết nếu đi nước ngoài, cô có thể tập trung vào việc nghiên cứu và không bị chi phối bởi các trách nhiệm công việc của một giảng viên. “Tuy nhiên, với tôi, sự nghiệp quan trọng, gia đình càng quan trọng hơn,” cô giải thích về lựa chọn của mình. Tỉ lệ nữ tiến sĩ tốt nghiệp Bách khoa Hà Nội trong 5 năm qua luôn đạt trên 30%. Năm nay, trong số 68 tiến sĩ, có 22 người là nữ, chiếm 32% tổng số.<o:p></o:p>
+Theo Thu Thủy, chất lượng đào tạo tiến sĩ của Bách khoa Hà Nội “được nhiều nhà khoa học Việt Nam từng nghiên cứu và giảng dạy ở nước ngoài đánh giá cao.” Ngoài ra, cô nhận xét thầy cô của Bách khoa Hà Nội có mối quan hệ chặt chẽ với đồng nghiệp nước ngoài nên các nghiên cứu sinh có nhiều cơ hội tham dự hội thảo chuyên đề, thực hành thí nghiệm và làm việc ở tầm quốc tế.<o:p></o:p>
+Nhờ sự giúp đỡ của thầy hướng dẫn là PGS. Nghiêm Trung Dũng, nguyên Viện trưởng Viện Khoa học và Công nghệ môi trường của Bách khoa Hà Nội, Thu Thủy hai lần sang Nhật phân tích mẫu thí nghiệm. Được thầy khuyến khích, cô cũng chủ động tìm kiếm cơ hội đến Mỹ hai lần, mỗi lần kéo dài ba tháng, để đào sâu nghiên cứu.<o:p></o:p>
+Tân tiến sĩ Nguyễn Thị Thu Thủy vừa bảo vệ thành công luận án về bụi nano. Trong quá trình nghiên cứu tại Bách khoa Hà Nội, cô đã công bố hai bài báo trên tạp chí khoa học thuộc nhóm ISI-Q1. PGS. Nghiêm Trung Dũng cho biết Thu Thủy là người đầu tiên ở Việt Nam nghiên cứu sâu về bụi nano trong không khí.
+Nguyễn Ngọc Minh, 43 tuổi, hiện là giảng viên của Trường Đại học Sư phạm Kỹ thuật Hưng Yên. Năm 2015, anh bắt đầu nghiên cứu tiến sĩ tại Viện Viện Đào tạo Quốc tế về Khoa học Vật liệu (ITIMS) thuộc Bách khoa Hà Nội. “Xét trong lĩnh vực nghiên cứu của tôi, Bách khoa Hà Nội là nơi có hệ thống trang thiết bị máy móc và đội ngũ giảng viên tiệm cận gần nhất với thế giới,” theo tân tiến sĩ nghiên cứu về linh kiện cảm biến sử dụng công nghệ vi điện tử.<o:p></o:p>
+Theo số liệu thống kê về giáo dục đại học của Bộ Giáo dục, quy mô đào tạo tiến sĩ năm học 2018-2019 trên cả nước là 11.000, giảm 25% so với năm học trước đó. Theo PGS. Nguyễn Đắc Trung, Phó trưởng phòng Đào tạo của Bách khoa Hà Nội, trong ba năm trở lại đây, việc tuyển sinh nghiên cứu sinh tiến sĩ khó khăn hơn do quy định về chuẩn đào tạo của Bộ ngày càng khắt khe ví dụ yêu cầu các ứng viên phải đạt trình độ tiếng Anh tối thiểu 5.0 IELTS.<o:p></o:p>
+Ngoài ra, các thầy cô hướng dẫn tại Bách khoa Hà Nội cũng đặt yêu cầu cao hơn với nghiên cứu sinh. “Nghiên cứu sinh có thể rất giỏi nhưng nếu thầy đặt yêu cầu không đủ cao thì họ không có động lực để đẩy bản thân ra khỏi vùng an toàn,” PGS. Nghiêm Trung Dũng, nguyên Viện trưởng Viện Khoa học và Công nghệ môi trường, nhận định.<o:p></o:p>
+Trước khi Bộ Giáo Dục và Đào tạo quy định nghiên cứu sinh phải có các bài báo đăng trên các tạp chí khoa học, PGS. Nghiêm Trung Dũng đã yêu cầu học trò của mình không chỉ công bố các bài báo trên các tạp chí trong nước mà bắt buộc phải đăng trên các tạp chí thuộc danh mục ISI. “Chốt chặn cuối cùng luôn là người thầy,” ông nhấn mạnh sự cần thiết phải nâng chuẩn đào tạo tiến sĩ của Việt Nam ngang tầm quốc tế.<o:p></o:p>
+Bách khoa Hà Nội hiện có hơn 30 ngành đào tạo tiến sĩ và 70% số ngành có nghiên cứu sinh công bố các bài báo ISI. Theo thống kê của phòng Đào tạo Trường, số lượng các bài báo công bố luôn đạt trên 400 bài một năm, nghĩa là trung bình mỗi nghiên cứu sinh có 6 bài và số bài thuộc danh mục ISI đạt trên 50 bài một năm.<o:p></o:p>
+Một số ngành đào tạo đã đạt được chuẩn đầu ra tương đương với các trường đại học trên thế giới, như ngành Toán, Vật lý kỹ thuật, Khoa học Vật liệu, Hóa học, Kỹ thuật điều khiển và tự động hóa, khi nghiên cứu sinh phải công bố ít nhất hai bài báo trên các tạp chí quốc tế để đủ điều kiện bảo vệ luận án.  
+
+<o:p></o:p>
+Tiến sĩ Nguyễn Ngọc Minh chụp ảnh kỷ niệm cùng vợ và hai con tại buổi lễ trao bằng ngày 14/10 ở Trường Đại học Bách khoa Hà Nội. Ảnh: CCPR-Kim Chi.<o:p></o:p>
+Thống kê tình hình lao động việc làm Quý I năm 2019 cho thấy thu nhập bình quân tháng từ công việc làm công hưởng lương của những người có trình độ trên đại học là 13,57 triệu đồng một tháng, cao hơn 43,5% so với thu nhập của người có trình độ đại học. Bất chấp triển vọng việc làm và thu nhập như vậy, không phải ai cũng lựa chọn con đường nghiên cứu sinh nhằm nâng cao trình độ chuyên môn bởi sự đầu tư vào tấm bằng Tiến sĩ không phải là nhỏ.
+Tiến sĩ ngành Vật liệu Nguyễn Ngọc Minh cho rằng khó khăn lớn nhất là sắp xếp công việc giảng dạy ở trường và cân bằng cuộc sống gia đình với việc nghiên cứu suốt 5 năm. Kể cả với một nghiên cứu sinh có thành tích xuất sắc như Nguyễn Văn Hoàng, quá trình lấy bằng Tiến sĩ gắn với những cuộc khủng hoảng áp lực thời gian, những nút thắt quan trọng như khi chờ bài báo được công bố trên tạp chí khoa học quốc tế hay hồi hộp về kết quả nghiên cứu nhóm. “Chắc do được rèn luyện từ thời học đại học ở Bách khoa nên tôi cứ dần dần vượt qua từng khó khăn thôi,” anh bộc bạch.
+Ngoài ra, theo Tiến sĩ Khoa học Môi trường Nguyễn Thị Thu Thủy, do đặc thù của ngành kỹ thuật, chi phí thí nghiệm chiếm phần lớn nhất trong tổng chi phí làm nghiên cứu sinh. Nếu không có những cơ hội được tài trợ ra nước ngoài để phân tích mẫu thí nghiệm, “hẳn con đường trở thành tiến sĩ đã gập ghềnh hơn nhiều,” cô nói.
+Hiểu được những khó khăn này, Bách khoa Hà Nội cấp học bổng bán phần và toàn phần cho tất cả các nghiên cứu sinh đạt yêu cầu chuẩn bài báo Q1 và ISI đồng thời hỗ trợ các khóa đào tạo, thực tập, nghiên cứu ở nước ngoài, trao đổi học thuật với các chuyên gia trên thế giới và bảo vệ luận án ở nước ngoài, phó trưởng phòng Đào tạo Nguyễn Đắc Trung cho biết.
+“Từ bây giờ, tôi mới thực sự là người nghiên cứu độc lập,” Tiến sĩ Nguyễn Thị Thu Thủy nói. Các tân tiến sĩ vừa tốt nghiệp Bách khoa Hà Nội có cùng quan điểm rằng tấm bằng Tiến sĩ là điểm khởi đầu chứ không phải kết thúc và 5 năm nghiên cứu đã giúp họ đào sâu kiến thức, rèn luyện bản lĩnh của nhà khoa học và nâng cao chất lượng giảng dạy cho sinh viên.
+“Khoa học là quá trình. Và tấm bằng Tiến sĩ chỉ giúp nâng ta lên một tầm nhất định. Sau đó, ta phải tiếp tục nỗ lực phát triển năng lực bản thân. Và hơn nữa, đừng quên trách nhiệm dìu dắt những người đi sau,” PGS. Nghiêm Trung Dũng nhắn nhủ các tân tiến sĩ.
+**Hồng Hạnh**
+**TIN LIÊN QUAN:**
+**Bách Khoa Hà Nội lập quỹ đầu tư mạo hiểm với số vốn lên tới 50 tỷ** (https://www.hust.edu.vn/tin-tuc/-/asset_publisher/AKFI5qRls1e8/content/-ai-hoc-bach-khoa-ha-noi-thanh-lap-quy-au-tu-mao-hiem-voi-so-von-len-toi-50-ty-ong)
+**Chương trình Thạc sĩ Khoa học Dữ liệu, Trí tuệ Nhân tạo bằng tiếng Anh** (https://www.hust.edu.vn/tin-tuc/-/asset_publisher/AKFI5qRls1e8/content/le-ky-ket-hop-tac-ao-tao-cho-chuong-trinh-thac-si-khoa-hoc-du-lieu-va-tri-tue-nhan-tao-bang-tieng-anh)
+<o:p></o:p>
+<h3 class="header-title" id="yui_patched_v3_11_0_1_1604052905160_401" style="margin: 0.1em; font-family: Calibri; font-weight: bold; color: rgb(156, 16, 16); overflow: hidden; text-overflow: ellipsis; line-height: 1.3 !important;">**Bách khoa Hà Nội công bố điểm chuẩn Đại học hệ chính quy 2020** (https://www.hust.edu.vn/tin-tuc/-/asset_publisher/AKFI5qRls1e8/content/diem-chuan-trung-tuyen-dhbkhn-2020)</h3>
+
+**Tác giả: **Phạm Hồng Hạnh (https://www.hust.edu.vn/vi/dao-tao/author/hanh-phamhong1/)
+
+**Những tin mới hơn**
+
+ 
+<h4>ĐÀO TẠO TRÌNH ĐỘ TIẾN SĨ (https://www.hust.edu.vn/vi/dao-tao/tien-si/dao-tao-trinh-do-tien-si-653330.html)</h4>
+(18/12/2022)
+
+**Những tin cũ hơn**
+
+ 
+<h4>Lễ trao bằng tiến sĩ 2019:  chất lượng đào tạo Tiến sĩ của ĐH Bách Khoa Hà Nội ngày càng được nâng cao. (https://www.hust.edu.vn/vi/dao-tao/tien-si/le-trao-bang-tien-si-2019-chat-luong-dao-tao-tien-si-cua-dh-bach-khoa-ha-noi-ngay-cang-duoc-nang-cao-494383.html)</h4>
+(09/10/2019)
+
+ 
+<h4>Cận cảnh thành tích “khủng” của Tân tiến sĩ ĐH Bách khoa HN (https://www.hust.edu.vn/vi/dao-tao/tien-si/can-canh-thanh-tich-khung-cua-tan-tien-si-dh-bach-khoa-hn-494093.html)</h4>
+(08/10/2019)

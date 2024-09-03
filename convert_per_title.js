@@ -2,35 +2,26 @@ const json2md = require("json2md");
 const fs = require('fs');
 const path = require('path');
 
-// Function to convert a single article to Markdown
-function convertArticleToMarkdown(article) {
-  return json2md([
-    { h1: article.title },
-    { p: `By: ${article.author.name} (${article.author.email})` },
-    { p: `Published on: ${article.date_published}` },
-    { p: article.summary },
-    { h2: "Content" },
-    { p: article.content }, 
-    { h2: "Categories" },
-    { ul: article.categories },
-    { h2: "Tags" },
-    { ul: article.tags },
-    { h2: "Related Articles" },
-    { ul: article.related_articles.map(a => ({ link: { title: a.title, source: a.link } })) },
-    { hr: '' } // Separator between articles
-  ]);
-}
-
 // Function to process the JSON file and generate Markdown
-function convertJSONtoMarkdown(inputFilePath, outputFilePath) {
+function convertJSONtoMarkdown(inputFilePath, outputFolderPath) {
   const data = JSON.parse(fs.readFileSync(inputFilePath, 'utf8'));
 
   // Check if the data is an array or a single object
   const articlesToConvert = Array.isArray(data) ? data : [data]; 
 
-  const allMarkdownContent = articlesToConvert.map(convertArticleToMarkdown).join('\n'); 
-  fs.writeFileSync(outputFilePath, allMarkdownContent);
-  console.log(`Markdown generated successfully at: ${outputFilePath}`);
+  articlesToConvert.forEach((article, index) => {
+    const firstLetters = article.title.split(' ').map(word => word.charAt(0).toUpperCase()).join('');
+    const sanitizedTitle = article.title.replace(/[^a-z0-9]/gi, '_').toLowerCase(); // Sanitize title for filename
+    const outputFileName = `ctt_${index + 1}_${firstLetters}.md`;
+    const outputFilePath = path.join(outputFolderPath, outputFileName);
+
+    
+    // Extract only the "content" for the Markdown file
+    const markdownContent = `# ${article.title}\n\n${article.content}`;
+
+    fs.writeFileSync(outputFilePath, markdownContent);
+    console.log(`Markdown generated successfully at: ${outputFilePath}`);
+  });
 }
 
 // Function to process a folder of JSON files
@@ -50,10 +41,7 @@ function convertFolderToMarkdown(inputFolderPath, outputFolderPath) {
 
     jsonFiles.forEach(file => {
       const inputFilePath = path.join(inputFolderPath, file);
-      const outputFileName = file.replace('.json', '.md');
-      const outputFilePath = path.join(outputFolderPath, outputFileName);
-
-      convertJSONtoMarkdown(inputFilePath, outputFilePath); 
+      convertJSONtoMarkdown(inputFilePath, outputFolderPath); 
     });
   });
 }
@@ -64,7 +52,8 @@ function convert(inputPath, outputPath) {
   if (stat.isDirectory()) {
     convertFolderToMarkdown(inputPath, outputPath);
   } else {
-    convertJSONtoMarkdown(inputPath, outputPath);
+    const outputFolderPath = path.dirname(outputPath); // Use the directory of the output file
+    convertJSONtoMarkdown(inputPath, outputFolderPath);
   }
 }
 

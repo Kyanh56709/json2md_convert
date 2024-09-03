@@ -1,0 +1,34 @@
+# Chiến lược phát triển
+TÓM LƯỢC CHIẾN LƯỢC PHÁT TRIỂN ĐẠI HỌC BÁCH KHOA HÀ NỘI 
+GIAI ĐOẠN 2017-2025
+I. MỤC TIÊU 
+
+Phát triển thành một đại học nghiên cứu đa lĩnh vực với nòng cốt là kỹ thuật và công nghệ, trong đó các đơn vị chuyên môn được tổ chức thành một số trường và khoa; viện và trung tâm nghiên cứu trực thuộc. Xây dựng hình mẫu thành công, phát triển bền vững của một đại học tự chủ toàn diện với mô hình quản trị tiên tiến, hệ thống tài chính vững mạnh, hạ tầng khuôn viên và cơ sở vật chất hiện đại ngang tầm khu vực. Xây dựng môi trường học thuật sáng tạo, cởi mở và quốc tế hóa; thu hút sinh viên ưu tú, học giả xuất sắc trong nước và quốc tế đến học tập, nghiên cứu và làm việc. Nâng chất lượng của tất cả các chương trình đào tạo đạt mức cao theo các tiêu chuẩn kiểm định khu vực hoặc quốc tế; đưa Trường lên nhóm đầu khu vực theo xếp hạng khả năng việc làm của người tốt nghiệp. Hình thành một trung tâm sáng tạo công nghệ xuất sắc của khu vực, thu hút mạnh tài trợ và đầu tư của Nhà nước, tổ chức, doanh nghiệp trong và ngoài nước; đưa Trường lên nhóm đầu khu vực theo xếp hạng năng lực sáng tạo. II. ĐỊNH HƯỚNG PHÁT TRIỂN
+
+Đổi mới quản trị đại học theo mô hình doanh nghiệp, thực hiện tự chủ đi đôi với trách nhiệm xã hội, coi người học là chủ thể, trung tâm của mọi hoạt động. Đào tạo và nghiên cứu trước hết phục vụ phát triển kinh tế-xã hội của đất nước, đồng thời tạo ra sản phẩm có khả năng cạnh tranh toàn cầu; tôn trọng cơ chế thị trường nhưng không phát triển theo hướng thương mại hóa. Phát triển theo định hướng hội nhập quốc tế, áp dụng những tiêu chuẩn chất lượng của khu vực và quốc tế, tiếp thu chọn lọc những mô hình và kinh nghiệm thành công của các trường đại học danh tiếng trên thế giới; chú trọng nâng cao năng lực thực chất đồng thời định hướng theo các tiêu chí xếp hạng quốc tế. Phát triển chú trọng chất lượng, không tăng tổng quy mô đào tạo; tập trung khai thác và phát huy những thế mạnh cốt lõi trong đào tạo chất lượng cao, đào tạo trình độ cao và nghiên cứu mũi nhọn, ưu tiên một số lĩnh vực khoa học và công nghệ có vai trò then chốt đối với nền kinh tế tri thức và cách mạng công nghiệp 4.0. Phát triển chương trình đào tạo theo ngành rộng với các định hướng sau đại học theo lĩnh vực ứng dụng hoặc lĩnh vực nghiên cứu, trang bị kiến thức nền tảng vững chắc đồng thời chú trọng phát triển năng lực thực hành nghề nghiệp và khả năng thích ứng trong môi trường quốc tế. Đổi mới mạnh mẽ phương thức tổ chức đào tạo, ứng dụng những công nghệ giáo dục mới, thúc đẩy quá trình tự học qua nghiên cứu, sáng tạo và trải nghiệm. Phát triển hài hòa và gắn kết chặt chẽ giữa nghiên cứu cơ bản, nghiên cứu ứng dụng và nghiên cứu triển khai; gắn kết nghiên cứu với đào tạo, sáng tạo và khởi nghiệp, thúc đẩy chuyển giao tri thức và thương mại hóa sản phẩm; chú trọng đồng thời nâng cao thành tích và phát triển tiềm lực nghiên cứu. 
+ ---HUST_CHATBOT---
+III. NHIỆM VỤ
+
+Cải tổ bộ máy tổ chức và xây dựng mô hình quản trị tiên tiến
+Phát huy năng lực và nâng cao chất lượng đội ngũ cán bộ
+Xây dựng hệ thống tài chính vững mạnh
+Xây dựng hạ tầng khuôn viên và cơ sở vật chất hiện đại
+Mở rộng đào tạo chất lượng cao theo định hướng quốc tế hóa
+Tập trung phát triển một số lĩnh vực khoa học và công nghệ then chốt
+Xây dựng và phát triển hệ sinh thái khởi nghiệp sáng tạo
+Tăng cường hợp tác doanh nghiệp và hợp tác quốc tế
+Tăng cường truyền thông và phát triển thương hiệu
+Nâng cao chất lượng và hiệu quả các hoạt động hỗ trợ người học
+
+CLPT2
+(Tóm lược theo "Chiến lược phát triển Đại học Bách khoa Hà Nội giai đoạn 2017-2025" ban hành ngày 15/02/2017 kèm theo Quyết định số 245/QĐ-ĐHBKHN-HCTH)
+ 
+CÁC NHIỆM VỤ VÀ GIẢI PHÁP CHỦ YẾU THỰC HIỆN “CHIẾN LƯỢC PHÁT TRIỂN ĐẠI HỌC BÁCH KHOA HÀ NỘI GIAI ĐOẠN 2017-2025”  TRONG GIAI ĐOẠN 2021-2025 
+(Ban hành kèm theo Quyết định số 2112/QĐ-ĐHBK ngày 29 tháng 9 năm 2021 của Hiệu trưởng Trường Đại học Bách khoa Hà Nội) xem TẠI ĐÂY (https://www.hust.edu.vn/documents/59786/0/NVTrongTam2021-2025-Rutgon.pdf/cce7c74e-e6b4-42fd-844b-0edc53138293)
+
+ Thông điệp của Giám đốc Đại học (https://www.hust.edu.vn/vi/about/thong-diep-cua-giam-doc-dai-hoc.html)
+ Tổng quan (https://www.hust.edu.vn/vi/about/tong-quan.html)
+ Danh hiệu - Khen thưởng (https://www.hust.edu.vn/vi/about/danh-hieu-khen-thuong.html)
+ Báo cáo thường niên (https://www.hust.edu.vn/vi/about/bao-cao-thuong-nien.html)
+ Lịch sử hình thành, phát triển (https://www.hust.edu.vn/vi/about/lich-su-hinh-thanh-phat-trien-21686.html) 
+ ---HUST_CHATBOT---

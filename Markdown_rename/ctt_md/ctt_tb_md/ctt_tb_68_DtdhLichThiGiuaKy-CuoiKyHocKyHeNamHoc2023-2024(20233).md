@@ -1,0 +1,8 @@
+# [ĐTĐH] LỊCH THI GIỮA KỲ - CUỐI KỲ HỌC KỲ HÈ NĂM HỌC 2023-2024 (20233)
+
+LỊCH THI GIỮA KỲ - CUỐI KỲ HỌC KỲ HÈ NĂM HỌC 2023-2024 (20233)
+        
+	LỊCH THI GIỮA KỲ - CUỐI KỲ HỌC KỲ HÈ NĂM HỌC 2023-2024 (20233)
+
+	
+		LỊCH THI GIỮA KỲ HÈ 20233 CÁC HỌC PHẦN TOÁN - KHOA TOÁN TIN (Cập nhật ngày 23/07/2024) XEM CHI TIẾT TẠI ĐÂY

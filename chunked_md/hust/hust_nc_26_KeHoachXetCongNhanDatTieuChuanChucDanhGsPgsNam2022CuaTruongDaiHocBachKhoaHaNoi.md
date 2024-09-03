@@ -1,0 +1,81 @@
+# Kế hoạch xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2022 của Trường Đại học Bách khoa Hà Nội
+
+Thực hiện công văn số 65/HĐCDGSNN ngày 8/4/2022 của Hội đồng Giáo sư Nhà nước, Trường Đại học Bách khoa Hà Nội xin gửi tới các đơn vị kế hoạch xét công nhận chức danh giáo sư (GS), phó giáo sư (PGS) năm 2022 cụ thể như sau:
+| Thời gian | Nội dung công việc |
+|---|---|
+| 06/5/2022 | Hạn cuối cùng ứng viên ghi tên đăng ký xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2022 tại phòng Quản lý nghiên cứu hoặc phòng Tổ chức cán bộ trường ĐHBK HN. |
+| 20/5/2022 | Hạn cuối cùng trường ĐHBK HN nộp hồ sơ và quyết định thành lập các Hội đồng Giáo sư cơ sở (HĐGSCS), kết quả bầu Chủ tịch, Phó chủ tịch và Thư ký HĐ về Văn phòng Hội đồng Giáo sư Nhà nước (HĐGSNN). |
+| 27/5/2022 | HĐGSNN thông báo danh sách các HĐGSCS trên trang thông tin điện tử của HĐGSNN |
+| 01-15/6/2022 | HĐGSNN tổ chức tập huấn xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2022. |
+| 30/6/2022 | Hạn cuối cùng ứng viên nộp Hồ sơ đăng ký xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2022 tại trường ĐHBK HN (địa chỉ nộp hồ sơ cụ thể sẽ thông báo sau). Hạn cuối cùng ứng viên gửi Bản đăng ký xét đạt tiêu chuẩn chức danh lên trang Thông tin điện tử của HĐGSNN. |
+| Từ 1/7 – 25/7/2022 | Các HĐGSCS xét đề nghị công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2022. |
+| 15/8/2022 | Hạn cuối cùng các HĐGSCS nộp cho văn phòng HĐGSNN báo cáo kết quả xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2022 (gồm Hồ sơ, tài liệu xét của Hội đồng và Hồ sơ của ứng viên… theo quy định) |
+| Từ 12-30/9/2022 | Các HĐGS ngành, liên ngành họp xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2022. |
+| Từ 25-30/10/2022 | HĐGSNN họp xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2022. |
+
+ Mọi chi tiết xin liên hệ phòng Quản lý nghiên cứu  (Tel. 024.38692136), phòng Tổ chức cán bộ (Tel. 
+ ---HUST_CHATBOT---
+024.38692036). Tệp đính kèm: Công văn của Hội đồng học hàm GS (/uploads/sys/nghien-cuu/2022/04/cong-van.625143.29111.pdf) 
+
+Tác giả: Nguyễn Thanh Tùng (https://www.hust.edu.vn/vi/nghien-cuu/author/tung-nguyenthanh1/)
+
+Những tin mới hơn
+
+ 
+Kết quả xét đạt tiêu chuẩn chức danh GS, PGS năm 2022 tại Hội đồng chức danh Giáo sư cơ sở Trường Đại học Bách khoa Hà Nội (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/ket-qua-xet-dat-tieu-chuan-chuc-danh-gs-pgs-nam-2022-tai-hoi-dong-chuc-danh-giao-su-co-so-truong-dai-hoc-bach-khoa-ha-noi-644469.html)
+(29/07/2022)
+
+ 
+HỘI ĐỒNG GIÁO SƯ CƠ SỞ ĐẠI HỌC BÁCH KHOA HÀ NỘI (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/hoi-dong-giao-su-co-so-cua-dai-hoc-bach-khoa-ha-noi-650114.html)
+(22/05/2023)
+
+ 
+Kết quả xét đạt tiêu chuẩn GS, PGS năm 2023 tại Hội đồng Giáo sư cơ sở Đại học Bách khoa Hà Nội (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/ket-qua-xet-dat-tieu-chuan-gs-pgs-nam-2023-tai-hoi-dong-giao-su-co-so-dai-hoc-bach-khoa-ha-noi-650116.html)
+(27/07/2023)
+
+ 
+Hướng dẫn upload và chia sẻ hồ sơ ứng viên (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/huong-dan-upload-va-chia-se-ho-so-ung-vien-521749.html)
+(13/06/2024)
+
+ 
+Hồ sơ ứng viên GS/PGS năm 2024 (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/ho-so-ung-vien-gs-pgs-nam-2024-650121.html)
+(28/06/2024)
+
+ 
+Kết quả xét đạt tiêu chuẩn GS, PGS năm 2024 tại Hội đồng Giáo sư cơ sở ĐHBK Hà Nội (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/ket-quaket-qua-xet-dat-tieu-chuan-gs-pgs-nam-2024-tai-hoi-dong-giao-su-co-so-dhbk-ha-noi-xet-dat-tieu-chuan-gs-pgs-nam-2024-tai-hoi-dong-giao-su-co-so-dhbk-ha-noi-650122.html)
+(18/07/2024)
+
+Những tin cũ hơn
+
+ 
+Thông báo Kết quả xét đạt tiêu chuẩn chức danh GS, PGS năm 2021 tại Hội đồng chức danh Giáo sư cơ sở Trường Đại học Bách khoa Hà Nội (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/thong-bao-ket-qua-xet-dat-tieu-chuan-chuc-danh-gs-pgs-nam-2021-tai-hoi-dong-chuc-danh-giao-su-co-so-truong-dai-hoc-bach-khoa-ha-noi-608918.html)
+(06/12/2021)
+
+ 
+Thông báo Kết quả xét đạt tiêu chuẩn chức danh GS, PGS năm 2021 tại Hội đồng chức danh Giáo sư cơ sở Trường Đại học Bách khoa Hà Nội (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/thong-bao-ket-qua-xet-dat-tieu-chuan-chuc-danh-gs-pgs-nam-2021-tai-hoi-dong-chuc-danh-giao-su-co-so-truong-dai-hoc-bach-khoa-ha-noi-608891.html)
+(06/12/2021)
+
+ 
+Lịch xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2021 (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/lich-xet-cong-nhan-dat-tieu-chuan-chuc-danh-gs-pgs-nam-2021-563837.html)
+(23/03/2021)
+
+ 
+Hội đồng Giáo sư cơ sở Trường Đại học Bách khoa Hà Nội (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/hoi-dong-giao-su-co-so-truong-dai-hoc-bach-khoa-ha-noi-525408.html)
+(29/07/2020)
+
+ 
+Thông báo Kết quả xét đạt tiêu chuẩn chức danh GS, PGS năm 2020 tại Hội đồng chức danh Giáo sư cơ sở Trường Đại học Bách khoa Hà Nội (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/thong-bao-ket-qua-xet-dat-tieu-chuan-chuc-danh-gs-pgs-nam-2020-tai-hoi-dong-chuc-danh-giao-su-co-so-truong-dai-hoc-bach-khoa-ha-noi-525393.html)
+(29/07/2020)
+
+ 
+Thông báo điều chỉnh Lịch xét công nhận đạt tiêu chuẩn chức danh GS, PGS năm 2020 (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/thong-bao-dieu-chinh-lich-xet-cong-nhan-dat-tieu-chuan-chuc-danh-gs-pgs-nam-2020-512547.html)
+(08/04/2020)
+
+ 
+Thông báo  Kết quả xét đạt tiêu chuẩn chức danh GS, PGS năm 2019 tại Hội đồng chức danh Giáo sư cơ sở Trường Đại học Bách khoa Hà Nội (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/thong-bao-ket-qua-xet-dat-tieu-chuan-chuc-danh-gs-pgs-nam-2019-tai-hoi-dong-chuc-danh-giao-su-co-so-truong-dai-hoc-bach-khoa-ha-noi-489016.html)
+(07/08/2019)
+
+ 
+Kế hoạch xét công nhận đạt tiêu chuẩn chức danh  GS, PGS năm 2019 (https://www.hust.edu.vn/vi/nghien-cuu/thong-tin-ung-vien-gs-pgs/ke-hoach-xet-cong-nhan-dat-tieu-chuan-chuc-danh-gs-pgs-nam-2019-441143.html)
+(24/04/2019) 
+ ---HUST_CHATBOT---

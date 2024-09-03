@@ -1,0 +1,6 @@
+# CV CỦA BẠN - HÌNH ẢNH CỦA BẠN
+
+“Hành trình vạn dặm bắt đầu từ một bước chân” và CV – Curriculum Vitae – có thể coi là bước chân đầu tiên để bạn đến với Doanh nghiệp tuyển dụng. Làm sao để có thể truyền tải bản thân và tạo ấn tượng đầu tiên với nhà tuyển dụng chỉ trong vài giây đầu tiên? 
+ ---HUST_CHATBOT---
+Với những chia sẻ từ các chuyên gia, các bạn sẽ có được những bí quyết độc nhất vô nhị để thiết kế CV định vị thương hiệu cá nhân. Đặc biệt chương trình còn có những quà tặng và dự án hỗ trợ việc làm miễn phí cho các bạn. 
+ ---HUST_CHATBOT---
